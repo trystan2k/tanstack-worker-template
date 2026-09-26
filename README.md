@@ -1,6 +1,6 @@
 # TanStack Worker starter
 
-Reusable SSR starter inspired by Padel Buddy Web and Sticker Tracker, updated for Cloudflare **Workers** (their current deployments use Pages/SPA). Includes React 19, Base UI, StyleX + design tokens, light/dark themes, en/pt-BR/es, Workbox PWA, Supabase email/password and Google OAuth + RLS notes example, Vitest, Playwright and release-gated CI/CD.
+Reusable SSR starter for Cloudflare **Workers** (deployments use Pages/SPA). Includes React 19, Base UI, StyleX + design tokens, light/dark themes, en/pt-BR/es, Workbox PWA, Supabase email/password and Google OAuth + RLS notes example, Vitest, Playwright and release-gated CI/CD.
 
 **First deployment:** follow [INITIAL_SETUP.md](./INITIAL_SETUP.md) for the Supabase project, Google OAuth client, callback URLs, GitHub secrets/variables and Cloudflare configuration.
 

@@ -107,7 +107,7 @@ Read `AGENTS.md` from the repository root. Look for the Linear Team and Project 
 
 The reference must provide at minimum:
 
-- **team** — Linear Team key or name (e.g., "PadelBuddy Web", "PBW").
+- **team** — Linear Team key or name (e.g., "Tanstack Worker", "TW").
 - **project** — (Optional) Linear Project name or ID.
 
 If `AGENTS.md` is missing or does not contain a team reference, fail immediately with:
