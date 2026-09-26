@@ -24,7 +24,7 @@ https://github.com/microsoft/playwright-cli:playwright-cli
 https://github.com/nextlevelbuilder/ui-ux-pro-max-skill:ui-ux-pro-max
 https://github.com/obra/superpowers:brainstorming
 https://github.com/proffesor-for-testing/agentic-qe:api-testing-patterns
-https://github.com/redwoodjs/agent-ci:agent-ci
+https://github.com/redwoodjs/local-ci:local-ci
 https://github.com/schpet/linear-cli:linear-cli
 https://github.com/softaworks/agent-toolkit:mermaid-diagrams
 https://github.com/supabase/agent-skills:supabase
